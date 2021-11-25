@@ -7,7 +7,7 @@ while i<=n:
     print (i)
     i=i+b
 print('after while loop the value i is  {}',format(i))
-print('after the while loop the value of i is %d belongs to i'%(i))
+print('after the while of i is %d belongs to i'%(i))
 print('after the while loop the value of i is %d' %(i))
 
 
